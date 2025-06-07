@@ -1,0 +1,26 @@
+#map {
+  height: 500px;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+  background-color: #3b266b;
+  color: white;
+  margin: 20px auto;
+  cursor: pointer;
+}
+
+section {
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #3b266b;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+}
